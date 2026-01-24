@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there 👋 I'm Shayan
 
-<!--
-**Shayan464/Shayan464** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Developer passionate about building clean, functional, and user-friendly web applications.  
+🌱 Currently sharpening my skills in modern web technologies and problem-solving.  
+🚀 I enjoy learning by building real projects and improving code quality step by step.  
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- Frontend: JavaScript, React, HTML, CSS, Tailwind CSS  
+- Backend: Node.js, PHP  
+- Tools: Git, GitHub, VS Code  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 What I’m focusing on
+- Writing clean, readable, and maintainable code  
+- Building practical projects with real-world use cases  
+- Strengthening core computer science fundamentals  
+
+### 🤝 Let’s connect
+- GitHub: You’re already here 🙂
+- LinkedIn : www.linkedin.com/in/shayan-khan-2ba67a331 
+
+⭐ Always curious. Always learning. Always improving.
