@@ -5,8 +5,9 @@
 🚀 I enjoy learning by building real projects and improving code quality step by step.  
 
 ### 🛠 Tech Stack
-- Frontend: JavaScript, React, HTML, CSS, Tailwind CSS  
-- Backend: Node.js  
+- Frontend: JavaScript, Next ,React, HTML, CSS, Tailwind CSS  
+- Backend: Node.js , Express js , etc..
+- Database: MongoDb, PostgreSql , etc...
 - Tools: Git, GitHub, VS Code   
 
 ### 📌 What I’m focusing on
