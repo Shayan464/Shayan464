@@ -6,8 +6,8 @@
 
 ### 🛠 Tech Stack
 - Frontend: JavaScript, React, HTML, CSS, Tailwind CSS  
-- Backend: Node.js, PHP  
-- Tools: Git, GitHub, VS Code  
+- Backend: Node.js  
+- Tools: Git, GitHub, VS Code   
 
 ### 📌 What I’m focusing on
 - Writing clean, readable, and maintainable code  
