@@ -6,8 +6,8 @@
 
 ### 🛠 Tech Stack
 - Frontend: JavaScript,TypeScript, Next ,React, HTML, CSS, Tailwind CSS  
-- Backend: Node.js , Express js , etc..
-- Database: MongoDb, PostgreSql , etc...
+- Backend: Node.js , Express js 
+- Database: MongoDb, PostgreSql 
 - Tools: Git, GitHub, VS Code   
 
 ### 📌 What I’m focusing on
@@ -16,7 +16,6 @@
 - Strengthening core computer science fundamentals  
 
 ### 🤝 Let’s connect
-- GitHub: You’re already here 🙂
 - LinkedIn : www.linkedin.com/in/shayan-khan-2ba67a331 
 
 ⭐ Always curious. Always learning. Always improving.
