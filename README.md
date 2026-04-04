@@ -1,21 +1,50 @@
-## Hi there 👋 I'm Shayan
+# Hi there 👋 I'm Shayan
 
-💻 Software Developer passionate about building clean, functional, and user-friendly web applications.  
-🌱 Currently sharpening my skills in modern web technologies and problem-solving.  
-🚀 I enjoy learning by building real projects and improving code quality step by step.  
+🚀 **Full-Stack Developer (MERN) | Exploring AI & Scalable Systems**
 
-### 🛠 Tech Stack
-- Frontend: JavaScript,TypeScript, Next ,React, HTML, CSS, Tailwind CSS  
-- Backend: Node.js , Express js 
-- Database: MongoDb, PostgreSql 
-- Tools: Git, GitHub, VS Code   
+I build modern, responsive, and user-focused web applications using the MERN stack.
+Currently focused on creating real-world projects and integrating AI into practical products.
 
-### 📌 What I’m focusing on
-- Writing clean, readable, and maintainable code  
-- Building practical projects with real-world use cases  
-- Strengthening core computer science fundamentals  
+---
 
-### 🤝 Let’s connect
-- LinkedIn : www.linkedin.com/in/shayan-khan-2ba67a331 
+## 💻 Tech Stack
 
-⭐ Always curious. Always learning. Always improving.
+**Frontend**
+JavaScript, TypeScript, React, Next.js, HTML, CSS, Tailwind CSS
+
+**Backend**
+Node.js, Express.js
+
+**Database**
+MongoDB, PostgreSQL
+
+**Tools & Platforms**
+Git, GitHub, VS Code, REST APIs
+
+---
+
+## 🎯 What I’m Currently Working On
+
+* Building full-stack MERN applications with real-world use cases
+* Integrating AI APIs into web applications
+* Writing clean, maintainable, and scalable code
+* Strengthening backend architecture and system design
+
+---
+
+## 📈 Goals
+
+* Become a highly skilled full-stack developer
+* Build impactful products and scalable applications
+* Contribute to real-world projects and startups
+
+---
+
+## 🤝 Let’s Connect
+
+* 💼 LinkedIn: https://www.linkedin.com/in/shayan-khan-2ba67a331
+* 📧 Email: [Shayan8839@gmail.com](mailto:Shayan8839@gmail.com)
+
+---
+
+⭐ *Always learning. Always building. Always improving.*
