@@ -2,32 +2,7 @@
 
 <h1><span style="color:#2EBFA5">Hi, I'm Shayan</span> 👋</h1>
 
-<svg width="500" height="90" viewBox="0 0 700 90" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <style>
-      @import url('https://fonts.googleapis.com/css2?family=UnifrakturMaguntia&display=swap');
-      .gothic {
-        font-family: 'UnifrakturMaguntia', cursive;
-        font-size: 48px;
-        fill: #B0B0B0;
-      }
-    </style>
-    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="0" result="blur">
-        <animate attributeName="stdDeviation" values="0;3;0" dur="3s" repeatCount="indefinite" />
-      </feGaussianBlur>
-      <feMerge>
-        <feMergeNode in="blur" />
-        <feMergeNode in="SourceGraphic" />
-      </feMerge>
-    </filter>
-  </defs>
-  <text x="50%" y="58" text-anchor="middle" class="gothic" filter="url(#glow)">
-    Software Developer
-    <animate attributeName="opacity" values="0.55;1;0.55" dur="3s" repeatCount="indefinite" />
-    <animate attributeName="fill" values="#B0B0B0;#2EBFA5;#B0B0B0" dur="6s" repeatCount="indefinite" />
-  </text>
-</svg>
+<img src="./software-developer-title.svg" width="500" alt="Software Developer" />
 
 <img src="https://github.com/user-attachments/assets/8c8c319d-190e-42c1-9933-26dc0a045351" width="750" alt="Profile banner" style="display: block; margin: 0 auto; border-radius: 16px;" />
 
