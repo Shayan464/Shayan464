@@ -14,9 +14,10 @@
 <a href="mailto:Shayan8839@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=shayan464&style=for-the-badge&color=2EBFA5&label=PROFILE+VIEWS" />
 
 </div>
+<img width="640" height="324" alt="profile-banner (2)" src="https://github.com/user-attachments/assets/b36385d2-5443-494f-ab88-5c15dd26abfc" />
+
 
 <br/>
 
@@ -53,49 +54,17 @@ Impactful, production-ready products
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=2EBFA5&height=2&section=header" width="100%"/>
 
-## 🎓 Featured Project
-
-<table>
-<tr>
-<td width="100%">
-
-### Umang Vision Academy (UVA)
-A full-stack **MERN** EdTech LMS built for K-12 students in India — CBSE, ICSE, and MP Board curricula — with Hindi/English support.
-
-`Socket.IO` `Razorpay` `AI Tutoring` `Role-Based Access` `Gamification` `Live Sessions`
-
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=2EBFA5&height=2&section=header" width="100%"/>
-
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,nodejs,express,angular,mongodb,postgres,git,github,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,angular,html,css,tailwind,nodejs,express,mongodb,postgres,git,github,vscode&theme=dark&perline=6" />
 </p>
-
-<div align="center">
-
-| Frontend | Backend | Database | Tools |
-|:---:|:---:|:---:|:---:|
-| JavaScript · TypeScript | Node.js | MongoDB | Git |
-| React · Next.js · Angular | Express.js | SQL | GitHub |
-| HTML · CSS · Tailwind CSS | REST APIs | PostgreSQL | VS Code |
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=2EBFA5&height=2&section=header" width="100%"/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=shayan464&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=2EBFA5&icon_color=2EBFA5" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayan464&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2EBFA5" />
-
-<img src="https://streak-stats.demolab.com/?user=shayan464&theme=tokyonight&hide_border=true&background=0D1117&ring=2EBFA5&fire=2EBFA5" />
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shayan464&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2EBFA5&line=2EBFA5" />
 
