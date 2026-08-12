@@ -1,26 +1,17 @@
 <div align="center">
 
-<img src="./profile-banner.gif" width="100%" alt="Profile banner" />
+<img src="https://github.com/user-attachments/assets/8c8c319d-190e-42c1-9933-26dc0a045351" width="640" alt="Profile banner" style="display: block; margin: 0 auto; border-radius: 16px;" />
 
 <h1>Hi, I'm Shayan 👋</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EBFA5&center=true&vCenter=true&width=600&lines=Software+Developer+%7C+MERN+%26+MEAN+Stack;Next.js+%7C+Node.js+%7C+Express.js;MongoDB+%2F+SQL+%2F+PostgreSQL;Exploring+AI+%26+Scalable+Systems" alt="Typing SVG" />
-
-<br/>
-
-<a href="https://www.linkedin.com/in/shayan-khan-2ba67a331" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:Shayan8839@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<img width="640" alt="Profile banner" style="display: block; margin: 0 auto; border-radius: 16px; src="https://github.com/user-attachments/assets/8c8c319d-190e-42c1-9933-26dc0a045351" />
+<img src="https://readme-typing-svg.demolab.com?font=UnifrakturMaguntia&size=32&pause=1200&color=B0B0B0&center=true&vCenter=true&width=600&lines=Software+Developer" alt="Typing SVG" />
 
 </div>
 
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=2EBFA5&height=2&section=header" width="100%"/>
+
 
 ## 🚀 About Me
 
