@@ -5,9 +5,11 @@
 </p>
 
 <p align="center">
-  <img src="./profile-banner.gif" width="800" alt="Profile banner" />
+  <img src="./profile-banner.gif" width="100%" alt="Profile banner" />
 </p>
-<img width="480" height="243" alt="profile-banner" src="https://github.com/user-attachments/assets/4a00ebca-ac36-4b57-8d48-80d7ac5bff35" />
+
+
+
 <h2 align="center">💼 Need A Professional Website?</h2>
 
 ---
@@ -48,16 +50,16 @@ Currently focused on shipping real-world projects and integrating AI into practi
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shayan464&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayan464&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="140" src="https://github-readme-stats.vercel.app/api?username=shayan464&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayan464&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shayan464&theme=tokyonight&hide_border=true" />
+  <img height="140" src="https://streak-stats.demolab.com/?user=shayan464&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shayan464&theme=tokyo-night&hide_border=true" />
+  <img height="140" src="https://github-readme-activity-graph.vercel.app/graph?username=shayan464&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -86,5 +88,5 @@ Currently focused on shipping real-world projects and integrating AI into practi
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=150&section=footer" />
 </p>
