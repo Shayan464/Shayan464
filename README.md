@@ -2,9 +2,9 @@
 
 <h1><span style="color:#2EBFA5">Hi, I'm Shayan</span> 👋</h1>
 
-<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNzAwIiBoZWlnaHQ9IjkwIiB2aWV3Qm94PSIwIDAgNzAwIDkwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogIDxkZWZzPgogICAgPHN0eWxlPgogICAgICBAaW1wb3J0IHVybCgnaHR0cHM6Ly9mb250cy5nb29nbGVhcGlzLmNvbS9jc3MyP2ZhbWlseT1VbmlmcmFrdHVyTWFndW50aWEmZGlzcGxheT1zd2FwJyk7CiAgICAgIC5nb3RoaWMgewogICAgICAgIGZvbnQtZmFtaWx5OiAnVW5pZnJha3R1ck1hZ3VudGlhJywgY3Vyc2l2ZTsKICAgICAgICBmb250LXNpemU6IDQ4cHg7CiAgICAgICAgZmlsbDogI0IwQjBCMDsKICAgICAgfQogICAgPC9zdHlsZT4KICAgIDxmaWx0ZXIgaWQ9Imdsb3ciIHg9Ii01MCUiIHk9Ii01MCUiIHdpZHRoPSIyMDAlIiBoZWlnaHQ9IjIwMCUiPgogICAgICA8ZmVHYXVzc2lhbkJsdXIgc3RkRGV2aWF0aW9uPSIwIiByZXN1bHQ9ImJsdXIiPgogICAgICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9InN0ZERldmlhdGlvbiIgdmFsdWVzPSIwOzM7MCIgZHVyPSIzcyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiIC8+CiAgICAgIDwvZmVHYXVzc2lhbkJsdXI+CiAgICAgIDxmZU1lcmdlPgogICAgICAgIDxmZU1lcmdlTm9kZSBpbj0iYmx1ciIgLz4KICAgICAgICA8ZmVNZXJnZU5vZGUgaW49IlNvdXJjZUdyYXBoaWMiIC8+CiAgICAgIDwvZmVNZXJnZT4KICAgIDwvZmlsdGVyPgogIDwvZGVmcz4KCiAgPHRleHQgeD0iNTAlIiB5PSI1OCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgY2xhc3M9ImdvdGhpYyIgZmlsdGVyPSJ1cmwoI2dsb3cpIj4KICAgIFNvZnR3YXJlIERldmVsb3BlcgogICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ib3BhY2l0eSIgdmFsdWVzPSIwLjU1OzE7MC41NSIgZHVyPSIzcyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiIC8+CiAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJmaWxsIiB2YWx1ZXM9IiNCMEIwQjA7IzJFQkZBNTsjQjBCMEIwIiBkdXI9IjZzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgLz4KICA8L3RleHQ+Cjwvc3ZnPgo=" width="500" alt="Software Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=UnifrakturMaguntia&size=45&pause=1200&color=B0B0B0&center=true&vCenter=true&width=600&lines=Software+Developer" alt="Software Developer" />
 
-<img src="https://github.com/user-attachments/assets/8c8c319d-190e-42c1-9933-26dc0a045351" width="640" alt="Profile banner" style="display: block; margin: 0 auto; border-radius: 16px;" />
+<img src="https://github.com/user-attachments/assets/8c8c319d-190e-42c1-9933-26dc0a045351" width="750" alt="Profile banner" style="display: block; margin: 0 auto; border-radius: 16px;" />
 
 </div>
 
