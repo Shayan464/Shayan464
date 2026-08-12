@@ -14,10 +14,9 @@
 <a href="mailto:Shayan8839@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+<img width="640" alt="Profile banner" style="display: block; margin: 0 auto; border-radius: 16px; src="https://github.com/user-attachments/assets/8c8c319d-190e-42c1-9933-26dc0a045351" />
 
 </div>
-<img width="640" height="324" alt="profile-banner (2)" src="https://github.com/user-attachments/assets/b36385d2-5443-494f-ab88-5c15dd26abfc" />
-
 
 <br/>
 
