@@ -7,7 +7,7 @@
 <p align="center">
   <img src="./profile-banner.gif" width="800" alt="Profile banner" />
 </p>
-
+<img width="480" height="243" alt="profile-banner" src="https://github.com/user-attachments/assets/4a00ebca-ac36-4b57-8d48-80d7ac5bff35" />
 <h2 align="center">💼 Need A Professional Website?</h2>
 
 ---
@@ -87,4 +87,4 @@ Currently focused on shipping real-world projects and integrating AI into practi
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
-</p><img width="480" height="243" alt="profile-banner" src="https://github.com/user-attachments/assets/4a00ebca-ac36-4b57-8d48-80d7ac5bff35" />
+</p>
