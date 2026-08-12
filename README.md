@@ -1,41 +1,90 @@
-# Hi there 👋 I'm Shayan
+<h1 align="center">Hi there, I'm Shayan 👋</h1>
 
-🚀 **Full-Stack Developer (MERN) | Exploring AI & Scalable Systems**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EBFA5&center=true&vCenter=true&width=600&lines=Software+Developer+%7C+MERN+%26+MEAN+Stack;Next.js+%7C+Node.js+%7C+Express.js;MongoDB+%2F+SQL+%2F+PostgreSQL;Exploring+AI+%26+Scalable+Systems" alt="Typing SVG" />
+</p>
 
-I build modern, responsive, and user-focused web applications using the MERN stack.
-Currently focused on creating real-world projects and integrating AI into practical products.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20my%20profile&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+---
+
+## 🚀 About Me
+
+I'm a **Software Developer** building modern, responsive, and user-focused web applications across the **MERN** and **MEAN** stacks, with **Next.js** for production-grade, SEO-friendly frontends.
+
+Currently focused on shipping real-world projects and integrating AI into practical products.
+
+- 🌱 Strengthening backend architecture & system design
+- 🤖 Integrating AI APIs into full-stack applications
+- 🧠 Writing clean, maintainable, and scalable code
+- 📈 Working toward building impactful, production-ready products
+
+---
 
 ## 💻 Tech Stack
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,nodejs,express,angular,mongodb,postgres,git,github,vscode&perline=8" />
+</p>
+
 **Frontend**
-JavaScript, TypeScript, React, Next.js, HTML, CSS, Tailwind CSS
+`JavaScript` `TypeScript` `React` `Next.js` `Angular` `HTML` `CSS` `Tailwind CSS`
 
 **Backend**
-Node.js, Express.js
+`Node.js` `Express.js`
 
 **Database**
-MongoDB, PostgreSQL
+`MongoDB` `SQL` `PostgreSQL`
 
 **Tools & Platforms**
-Git, GitHub, VS Code, REST APIs
+`Git` `GitHub` `VS Code` `REST APIs`
 
-## 🎯 What I’m Currently Working On
+---
 
-* Building full-stack MERN applications with real-world use cases
-* Integrating AI APIs into web applications
-* Writing clean, maintainable, and scalable code
-* Strengthening backend architecture and system design
+## 📊 GitHub Stats
 
-## 📈 Goals
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Shayan8839&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shayan8839&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-* Become a highly skilled full-stack developer
-* Build impactful products and scalable applications
-* Contribute to real-world projects and startups
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shayan8839&theme=tokyonight&hide_border=true" />
+</p>
 
-## 🤝 Let’s Connect
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shayan8839&theme=tokyo-night&hide_border=true" />
+</p>
 
-* 💼 LinkedIn: https://www.linkedin.com/in/shayan-khan-2ba67a331
-* 📧 Email: [Shayan8839@gmail.com](mailto:Shayan8839@gmail.com)
+> ℹ️ Replace `Shayan8839` above with your actual GitHub username if it differs, so the stat cards pull your real data.
 
+---
 
-⭐ *Always learning. Always building. Always improving.*
+## 🎯 Goals
+
+- Become a highly skilled software developer across the full stack
+- Build impactful products and scalable applications
+- Contribute to real-world projects and startups
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shayan-khan-2ba67a331" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:Shayan8839@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <em>⭐ Always learning. Always building. Always improving.</em>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+</p>
