@@ -2,10 +2,7 @@
 
 <h1><span style="color:#2EBFA5">Hi, I'm Shayan</span> 👋</h1>
 
-<img src="./software-developer-title.svg" width="500" alt="Software Developer" />
-![software-developer-title (1)](https://github.com/user-attachments/assets/06a13b34-8fa1-4ed8-84a0-d903a4471071)
-
-<svg width="700" height="90" viewBox="0 0 700 90" xmlns="http://www.w3.org/2000/svg">
+<svg width="500" height="90" viewBox="0 0 700 90" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <style>
       @import url('https://fonts.googleapis.com/css2?family=UnifrakturMaguntia&display=swap');
@@ -25,14 +22,12 @@
       </feMerge>
     </filter>
   </defs>
-
   <text x="50%" y="58" text-anchor="middle" class="gothic" filter="url(#glow)">
     Software Developer
     <animate attributeName="opacity" values="0.55;1;0.55" dur="3s" repeatCount="indefinite" />
     <animate attributeName="fill" values="#B0B0B0;#2EBFA5;#B0B0B0" dur="6s" repeatCount="indefinite" />
   </text>
 </svg>
-
 
 <img src="https://github.com/user-attachments/assets/8c8c319d-190e-42c1-9933-26dc0a045351" width="750" alt="Profile banner" style="display: block; margin: 0 auto; border-radius: 16px;" />
 
