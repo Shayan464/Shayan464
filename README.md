@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/8c8c319d-190e-42c1-9933-26dc0a045351" width="640" alt="Profile banner" style="display: block; margin: 0 auto; border-radius: 16px;" />
-
 <h1>Hi, I'm Shayan 👋</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=UnifrakturMaguntia&size=32&pause=1200&color=B0B0B0&center=true&vCenter=true&width=600&lines=Software+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=UnifrakturMaguntia&size=45&pause=1200&color=B0B0B0&center=true&vCenter=true&width=600&lines=Software+Developer" alt="Typing SVG" />
+
+<img src="https://github.com/user-attachments/assets/8c8c319d-190e-42c1-9933-26dc0a045351" width="640" alt="Profile banner" style="display: block; margin: 0 auto; border-radius: 16px;" />
 
 </div>
 
