@@ -6,6 +6,8 @@
 
 <p align="center">
   <img src="./profile-banner.gif" width="100%" alt="Profile banner" />
+  <img width="640" height="324" alt="profile-banner (2)" src="https://github.com/user-attachments/assets/bfb5f004-7bbf-4163-aa52-a3843fc22dee" />
+
 </p>
 
 
